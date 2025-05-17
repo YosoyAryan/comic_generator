@@ -1,0 +1,7 @@
+Django>=4.0,<5.0
+Pillow>=9.0.0
+reportlab>=3.6.12
+easygoogletranslate>=1.0.1
+langchain-groq>=0.1.0
+huggingface-hub>=0.14.1
+python-dotenv>=1.0.0
