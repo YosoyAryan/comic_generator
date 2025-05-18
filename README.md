@@ -16,7 +16,15 @@ And generates:
 - 🧠 A 3-part **funny or creative story** using LLMs
 - 🎨 AI-generated **illustrated comic pages** (in chosen style)
 - 📄 A downloadable **PDF comic book** with both story and artwork!
-[Uploading comic_41189.pdf…]()
+  
+![Screenshot 2025-05-18 160902](https://github.com/user-attachments/assets/f24864fd-d025-49fb-a341-5db3521b3c6a)
+![image](https://github.com/user-attachments/assets/249fb16d-36b5-48a6-989e-258cf3f1102a)
+![image](https://github.com/user-attachments/assets/b770aeb9-29f1-43b8-adf0-73063430b37c)
+![image](https://github.com/user-attachments/assets/e66cbb19-008e-4040-8aa1-bb0af6160f92)
+![image](https://github.com/user-attachments/assets/3177faac-78c8-4b24-933c-50b7b5fc496f) ![image](https://github.com/user-attachments/assets/3d8d93da-f3b3-438c-b18a-157f845fcce3)
+
+
+
 
 ---
 
