@@ -129,8 +129,11 @@ MIT License.
 ## 🧙‍♀️ Created With Magic By
 
 > 🧠 GPT + LangChain + Groq
+
 > 🎨 HuggingFace Inference API
+
 > 🌍 EasyGoogleTranslate
+
 > 🛠️ Django, Pillow, ReportLab
 
 Happy Storytelling! 🚀🖍️
